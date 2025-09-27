@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Olá, eu sou o Leonardo Gonçalves!
+# 👋 Olá, eu sou o Leonardo Cardoso!
 
 💻 Desenvolvedor Front-End em transição de carreira  
 📚 Atualmente estudando no **Santander ADA Tech+** e **DevClub**  
