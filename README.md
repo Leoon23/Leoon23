@@ -28,10 +28,13 @@ Stack: Node.js • TypeScript • Express • React • JavaScript • API REST 
 
 ### Usina Monitor API
 API em Node.js e TypeScript que recebe telemetria de equipamentos e calcula indicadores em tempo real
+
+
 **Stack:** Node.js, TypeScript, Express
 
 ### LumiControl
 Sistema que integra hardware e software para automação e controle, com dashboard web para monitoramento e acionamento.
+
 
 **Stack:** Node.js, React
 
