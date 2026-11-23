@@ -22,16 +22,17 @@ Stack: Node.js • TypeScript • Express • React • JavaScript • API REST 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## Projetos em destaque
 
-### Usina Monitor API
+## Projetos em destaque
+
+### [Usina Monitor API](https://github.com/Leoon23/usina-monitor-api)
 API em Node.js e TypeScript que recebe telemetria de equipamentos e calcula indicadores em tempo real.
 
 Stack: Node.js, TypeScript, Express, React
 
-### LumiControl
+### [LumiControl](https://github.com/Leoon23/LumiControl)
 Sistema que integra hardware e software para automação e controle, com dashboard web para monitoramento e acionamento.
 
 Stack: Node.js, Express, JavaScript
-
 ## Formação
 DevClub - Desenvolvimento Full Stack
 ADA - Tecnologia / Desenvolvimento
