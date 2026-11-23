@@ -1,14 +1,10 @@
-# Leonardo Cardoso | Full Stack Developer
+Leonardo Cardoso Silva | Full Stack Developer
 
-Sou desenvolvedor em formação com background em Eletrotécnica e IoT, focado em construir aplicações web que conectam software e hardware.
+Desenvolvedor Full Stack com ênfase em Backend. Crio APIs REST e sistemas web de monitoramento em tempo real, com lógica de negócio, alertas automáticos e integração de sensores e dispositivos.
 
-Atualmente em formação Full Stack pelo DevClub e ADA, com foco em Node.js, TypeScript, React e PostgreSQL.
+Stack: Node.js • TypeScript • Express • React • JavaScript • API REST • IoT
 
-📍 Parelhas - RN, Brasil
-📧 leeoncardoso23@gmail.com
-
----
-
+📍 Parelhas - RN | 💼 Aberto a oportunidades como Desenvolvedor Full Stack
 ## O que eu faço
 
 - Desenvolvimento de APIs REST com Node.js, Express e TypeScript
