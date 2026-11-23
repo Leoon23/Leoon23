@@ -5,7 +5,7 @@ Sou desenvolvedor em formação com background em Eletrotécnica e IoT, focado e
 Atualmente em formação Full Stack pelo DevClub e ADA, com foco em Node.js, TypeScript, React e PostgreSQL.
 
 📍 Parelhas - RN, Brasil
-📧 ygorcardoso1908@gmail.com
+📧 leeoncardoso23@gmail.com
 
 ---
 
