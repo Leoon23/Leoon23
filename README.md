@@ -9,7 +9,6 @@ Stack: Node.js • TypeScript • Express • React • JavaScript • API REST 
 
 - Desenvolvimento de APIs REST com Node.js, Express e TypeScript
 - Integração de sistemas com hardware e dispositivos IoT
-- Modelagem de dados e regras de negócio com PostgreSQL
 - Interfaces web com React, consumindo APIs próprias
 
 ## Stack
@@ -29,14 +28,13 @@ Stack: Node.js • TypeScript • Express • React • JavaScript • API REST 
 ## Projetos em destaque
 
 ### Usina Monitor API
-API em Node.js e TypeScript que recebe telemetria de equipamentos e calcula indicadores em tempo real, com persistência em PostgreSQL.
-
-**Stack:** Node.js, TypeScript, Express, PostgreSQL
+API em Node.js e TypeScript que recebe telemetria de equipamentos e calcula indicadores em tempo real
+**Stack:** Node.js, TypeScript, Express
 
 ### LumiControl
 Sistema que integra hardware e software para automação e controle, com dashboard web para monitoramento e acionamento.
 
-**Stack:** Node.js, React, PostgreSQL
+**Stack:** Node.js, React
 
 ---
 
